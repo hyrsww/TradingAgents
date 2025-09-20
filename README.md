@@ -1,4 +1,4 @@
-<p align="center">
+<img width="700" height="98" alt="image" src="https://github.com/user-attachments/assets/576207ed-a85c-42a4-874a-ecba18da51b9" /><p align="center">
   <img src="assets/TauricResearch.png" style="width: 60%; height: auto;">
 </p>
 
@@ -94,6 +94,30 @@ Our framework decomposes complex trading tasks into specialized roles. This ensu
 ## Installation and CLI
 
 ### Installation
+
+{
+  "mcpServers": {
+    "fetch": {
+      "args": [
+        "mcp-server-fetch"
+      ],
+      "command": "uvx"
+    }
+  }
+}
+
+```{
+  "mcpServers": {
+    "fetch": {
+      "args": [
+        "mcp-server-fetch"
+      ],
+      "command": "uvx"
+    }
+  }
+}
+```
+
 
 Clone TradingAgents:
 ```bash
